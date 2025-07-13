@@ -1,6 +1,6 @@
 # Clima App ☀️🌧️
 
-Aplicación web para buscar el clima de cualquier ciudad usando la API de OpenWeatherMap.
+Aplicación para buscar el clima de cualquier ciudad usando la API de OpenWeatherMap.
 
 ## Vista previa
 
